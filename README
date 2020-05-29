@@ -1,0 +1,13 @@
+Practicing some plain javascript
+
+1. shoppinglist
+    Simple webpage with a few rows and columns. Used javascript to control behaviour of button, forms and input elements
+
+2. closure
+    Playing around with keywords used in declarations and the different scopes.
+
+3. promises
+    Testing out promises as an alternative to nested callbacks. Tried async functions.
+
+4. readJSON
+    Parse different types of varaiables allowed in a JSON file.
